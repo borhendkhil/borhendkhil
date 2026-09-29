@@ -48,7 +48,9 @@
 ---
 
 ### 📊 GitHub Statistics
-
+<p align="center">
+  <img src="https://metrics.lecoq.io/borhendkhil?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Africa%2FTunis" width="97%" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=borhendkhil&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhendkhil&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
