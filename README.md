@@ -1,12 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Borhen Dkhil</h1>
 <h3 align="center">Full-Stack Engineer & Software Architect</h3>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/borhen-dkhil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/borhen-dkhil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:borhen.dkhiill@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
- 
 </p>
 
 <p align="center">
@@ -50,11 +47,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./stats.svg" ... />
-  <img src="./top-langs.svg" ... />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=borhendkhil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=borhendkhil&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=borhendkhil&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=borhendkhil&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ### ⚡ Highlights & Featured Areas
@@ -84,5 +82,5 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
