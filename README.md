@@ -50,7 +50,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="97%" alt="GitHub Metrics" />
+  <img src="./stats.svg" ... />
+  <img src="./top-langs.svg" ... />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=borhendkhil&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
